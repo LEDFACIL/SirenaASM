@@ -23,8 +23,8 @@ Los siguientes 2 archivos corresponden al proyecto hecho con MPLAB X IDE en leng
 SirenaASM1.X.production.hex  
 main.s
 
-Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "code" y luego en el menú
-que se despliega seleccionar "download zip".
+Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "Code" y luego en el menú
+que se despliega seleccionar "Download ZIP".
 
 Éxito con esos experimentos!!!
 
