@@ -1,11 +1,11 @@
-En este repositorio dejo los recuros de proyecto y programas utilizados en la serie de videotutoriales de la lista de 
+En este repositorio dejo los recursos de proyecto y programas utilizados en la serie de videotutoriales de la lista de 
 reproducción https://www.youtube.com/playlist?list=PLyXDLkOhTlfVAlO5qM1qeuvgPNUH3aPAA donde explico cómo programar
-tonos para sirenas de policía, basandonos en el hardware de amplificación para sirenas original de Argentina marca 
+tonos para sirenas de policía, basándonos en el hardware de amplificación para sirenas original de Argentina marca 
 Kingvox.
 
-Trabajo con el microcontrolador PIC16F628A y con MPLAB X IDE.
+Trabajo con el microcontrolador PIC16F628A de Micrpochip y con MPLAB X IDE (y muestro algo de Niple de pasada...).
 
-El objetivo de compartir estos videotutoriales e información es para enseñar o dar sugerencias, a modo informativo.
+El objetivo de compartir estos videotutoriales e información es enseñar o dar sugerencias, a modo informativo.
 
 Estos 3 archivos corresponden al proyecto hecho con NIPLE 6.6.2 que genera el tono "audiopenetrante";
 
