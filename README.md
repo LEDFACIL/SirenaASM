@@ -23,6 +23,9 @@ Los siguientes 2 archivos corresponden al proyecto hecho con MPLAB X IDE en leng
 SirenaASM1.X.production.hex  
 main.s
 
+Para descargar todos estos recursos de una sola vez, ir al botón verde arriba a la derecha "code" y luego en el menú
+que se despliega seleccionar "download zip".
+
 Éxito con esos experimentos!!!
 
 Damián G. Lasso - Mis sitios web son https://ledfacil.com.ar/ y https://lasso-tech.com/
