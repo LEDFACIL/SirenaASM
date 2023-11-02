@@ -8,19 +8,19 @@ El objetivo de compartir estos videotutoriales e información es para enseñar o
 
 Estos 3 archivos corresponden al proyecto hecho con NIPLE 6.6.2 que genera el tono "audiopenetrante";
 
-Sirena.HEX
-Sirena.NPL
+Sirena.HEX  
+Sirena.NPL  
 Sirena.asm
 
 Los siguientes 2 archivos corresponden al proyecto hecho con MPLAB X IDE en lenguaje C, para generar el tono "bitonal";
 
-Sirena.X.production.hex
+Sirena.X.production.hex  
 main.c
 
 Los siguientes 2 archivos corresponden al proyecto hecho con MPLAB X IDE en lenguaje ASM, para generar los tonos 
 "audiopenetrante", "ululante" y "bitonal";
 
-SirenaASM1.X.production.hex
+SirenaASM1.X.production.hex  
 main.s
 
 Éxito con esos experimentos!!!
